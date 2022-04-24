@@ -7,7 +7,6 @@ GoogleAdMob를 사용하여 unity에 광고배너를 설치했습니다.
 *                                                 
 ![KakaoTalk_20220424_215551236](https://user-images.githubusercontent.com/71114491/164978522-8b1734eb-5fe9-43d5-a114-3545136c2ac6.jpg)
 ![KakaoTalk_20220424_215551236_01](https://user-images.githubusercontent.com/71114491/164978527-79061828-446c-4374-998b-9b9be7f30179.jpg)
-
 *                                                
 *                                              
 *                                              
